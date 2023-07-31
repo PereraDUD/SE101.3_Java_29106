@@ -1,0 +1,8 @@
+output
+We can use final keyword in three ways,
+in a class
+in a method
+in a variable
+
+If we are using "final" keyword in java programming, we can't declare again in after first declaration.
+In above program using final keyword as mentioned three ways.Threfore we can't inherite Student class in Undergraduate class.   
